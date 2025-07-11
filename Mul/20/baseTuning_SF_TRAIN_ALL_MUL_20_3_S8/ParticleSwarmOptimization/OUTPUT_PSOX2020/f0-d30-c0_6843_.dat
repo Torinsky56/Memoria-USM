@@ -1,0 +1,477 @@
+
+PSO-X is being executed with the next parameters:
+  competition:       CEC05
+  problem:           0
+  dimensions:        30
+  minInitRange:      -100
+  maxInitRange:      100
+  seed:              6843
+  evaluations:       150000
+  iterations:        937
+  particles:         160
+  reinitilize_pos:   NO
+  detect_stagnation: NO
+  perturbedlBest:    NO
+  populationCS:      POP_CONSTANT
+  modelOfInfluence:  FI
+  topology:          TOP_WHEEL
+  randNeighbor:      YES
+  velocity clamped:  NO
+  omega1CS:          CONSTANT
+  inertia:           0.18
+  omega2CS:          ONE
+  omega3CS:          ZERO (no additive perturbation)
+  accelCoeffCS:      CONSTANT
+  phi_1:             0.86
+  phi_2:             1.88
+  perturbation1CS:   NONE
+  perturbation2CS:   NONE
+  randomMatrix:      DIAGONAL
+  DistributionNPP:   SPHERICAL
+
+
+Problem parameters:
+  dimensions:         30
+  evaluations:        160
+  maxEvaluations:     150000
+  optimum:            0.000000e+00
+  oldResult:          1.579110e+05
+  firstEvaluation:    1
+  bestSolutionValue:  8.234850e+04
+  hasBounds:          1
+  vID:                1
+  lowerBound:         -1.000000e+02
+  upperBound:         1.000000e+02
+
+iteration: 1 func_evaluations: 160 best: 7.218812e+04
+iteration: 2 func_evaluations: 320 best: 6.696138e+04
+iteration: 3 func_evaluations: 480 best: 6.673254e+04
+iteration: 4 func_evaluations: 640 best: 6.673254e+04
+iteration: 5 func_evaluations: 800 best: 6.673254e+04
+iteration: 6 func_evaluations: 960 best: 6.673254e+04
+iteration: 7 func_evaluations: 1120 best: 6.673254e+04
+iteration: 8 func_evaluations: 1280 best: 6.673254e+04
+iteration: 9 func_evaluations: 1440 best: 6.673254e+04
+iteration: 10 func_evaluations: 1600 best: 6.673254e+04
+iteration: 12 func_evaluations: 1920 best: 6.673254e+04
+iteration: 16 func_evaluations: 2560 best: 6.673254e+04
+iteration: 20 func_evaluations: 3200 best: 6.673254e+04
+iteration: 24 func_evaluations: 3840 best: 6.673254e+04
+iteration: 28 func_evaluations: 4480 best: 6.673254e+04
+iteration: 32 func_evaluations: 5120 best: 6.673254e+04
+iteration: 36 func_evaluations: 5760 best: 6.673254e+04
+iteration: 40 func_evaluations: 6400 best: 6.673254e+04
+iteration: 44 func_evaluations: 7040 best: 6.673254e+04
+iteration: 48 func_evaluations: 7680 best: 6.673254e+04
+iteration: 52 func_evaluations: 8320 best: 6.673254e+04
+iteration: 56 func_evaluations: 8960 best: 6.673254e+04
+iteration: 60 func_evaluations: 9600 best: 6.673254e+04
+iteration: 64 func_evaluations: 10240 best: 6.673254e+04
+iteration: 68 func_evaluations: 10880 best: 6.673254e+04
+iteration: 72 func_evaluations: 11520 best: 6.673254e+04
+iteration: 76 func_evaluations: 12160 best: 6.673254e+04
+iteration: 80 func_evaluations: 12800 best: 6.673254e+04
+iteration: 84 func_evaluations: 13440 best: 6.673254e+04
+iteration: 88 func_evaluations: 14080 best: 6.673254e+04
+iteration: 92 func_evaluations: 14720 best: 6.673254e+04
+iteration: 94 func_evaluations: 15040 best: 6.673254e+04
+iteration: 96 func_evaluations: 15360 best: 6.673254e+04
+iteration: 98 func_evaluations: 15680 best: 6.673254e+04
+iteration: 100 func_evaluations: 16000 best: 6.673254e+04
+iteration: 102 func_evaluations: 16320 best: 6.673254e+04
+iteration: 104 func_evaluations: 16640 best: 6.673254e+04
+iteration: 106 func_evaluations: 16960 best: 6.673254e+04
+iteration: 108 func_evaluations: 17280 best: 6.673254e+04
+iteration: 110 func_evaluations: 17600 best: 6.673254e+04
+iteration: 112 func_evaluations: 17920 best: 6.673254e+04
+iteration: 114 func_evaluations: 18240 best: 6.673254e+04
+iteration: 116 func_evaluations: 18560 best: 6.673254e+04
+iteration: 118 func_evaluations: 18880 best: 6.673254e+04
+iteration: 120 func_evaluations: 19200 best: 6.673254e+04
+iteration: 122 func_evaluations: 19520 best: 6.673254e+04
+iteration: 124 func_evaluations: 19840 best: 6.673254e+04
+iteration: 126 func_evaluations: 20160 best: 6.673254e+04
+iteration: 128 func_evaluations: 20480 best: 6.673254e+04
+iteration: 130 func_evaluations: 20800 best: 6.673254e+04
+iteration: 132 func_evaluations: 21120 best: 6.673254e+04
+iteration: 134 func_evaluations: 21440 best: 6.673254e+04
+iteration: 136 func_evaluations: 21760 best: 6.673254e+04
+iteration: 138 func_evaluations: 22080 best: 6.673254e+04
+iteration: 140 func_evaluations: 22400 best: 6.673254e+04
+iteration: 142 func_evaluations: 22720 best: 6.673254e+04
+iteration: 144 func_evaluations: 23040 best: 6.673254e+04
+iteration: 146 func_evaluations: 23360 best: 6.673254e+04
+iteration: 148 func_evaluations: 23680 best: 6.673254e+04
+iteration: 150 func_evaluations: 24000 best: 6.673254e+04
+iteration: 152 func_evaluations: 24320 best: 6.673254e+04
+iteration: 154 func_evaluations: 24640 best: 6.667425e+04
+iteration: 156 func_evaluations: 24960 best: 6.667425e+04
+iteration: 158 func_evaluations: 25280 best: 6.667425e+04
+iteration: 160 func_evaluations: 25600 best: 6.667425e+04
+iteration: 162 func_evaluations: 25920 best: 6.667425e+04
+iteration: 164 func_evaluations: 26240 best: 6.667425e+04
+iteration: 166 func_evaluations: 26560 best: 6.667425e+04
+iteration: 168 func_evaluations: 26880 best: 6.667425e+04
+iteration: 170 func_evaluations: 27200 best: 6.667425e+04
+iteration: 172 func_evaluations: 27520 best: 6.667425e+04
+iteration: 174 func_evaluations: 27840 best: 6.667425e+04
+iteration: 176 func_evaluations: 28160 best: 6.667425e+04
+iteration: 178 func_evaluations: 28480 best: 6.667425e+04
+iteration: 180 func_evaluations: 28800 best: 6.667425e+04
+iteration: 182 func_evaluations: 29120 best: 6.667425e+04
+iteration: 184 func_evaluations: 29440 best: 6.667425e+04
+iteration: 186 func_evaluations: 29760 best: 6.667425e+04
+iteration: 188 func_evaluations: 30080 best: 6.667425e+04
+iteration: 190 func_evaluations: 30400 best: 6.667425e+04
+iteration: 192 func_evaluations: 30720 best: 6.667425e+04
+iteration: 194 func_evaluations: 31040 best: 6.667425e+04
+iteration: 196 func_evaluations: 31360 best: 6.667425e+04
+iteration: 198 func_evaluations: 31680 best: 6.667425e+04
+iteration: 200 func_evaluations: 32000 best: 6.667425e+04
+iteration: 202 func_evaluations: 32320 best: 6.667425e+04
+iteration: 204 func_evaluations: 32640 best: 6.667425e+04
+iteration: 206 func_evaluations: 32960 best: 6.667425e+04
+iteration: 208 func_evaluations: 33280 best: 6.667425e+04
+iteration: 210 func_evaluations: 33600 best: 6.667425e+04
+iteration: 212 func_evaluations: 33920 best: 6.667425e+04
+iteration: 214 func_evaluations: 34240 best: 6.667425e+04
+iteration: 216 func_evaluations: 34560 best: 6.667425e+04
+iteration: 218 func_evaluations: 34880 best: 6.667425e+04
+iteration: 220 func_evaluations: 35200 best: 6.667425e+04
+iteration: 222 func_evaluations: 35520 best: 6.667425e+04
+iteration: 224 func_evaluations: 35840 best: 6.667425e+04
+iteration: 226 func_evaluations: 36160 best: 6.667425e+04
+iteration: 228 func_evaluations: 36480 best: 6.667425e+04
+iteration: 230 func_evaluations: 36800 best: 6.667425e+04
+iteration: 232 func_evaluations: 37120 best: 6.667425e+04
+iteration: 234 func_evaluations: 37440 best: 6.667425e+04
+iteration: 236 func_evaluations: 37760 best: 6.667425e+04
+iteration: 238 func_evaluations: 38080 best: 6.667425e+04
+iteration: 240 func_evaluations: 38400 best: 6.667425e+04
+iteration: 242 func_evaluations: 38720 best: 6.667425e+04
+iteration: 244 func_evaluations: 39040 best: 6.667425e+04
+iteration: 246 func_evaluations: 39360 best: 6.667425e+04
+iteration: 248 func_evaluations: 39680 best: 6.667425e+04
+iteration: 250 func_evaluations: 40000 best: 6.667425e+04
+iteration: 252 func_evaluations: 40320 best: 6.667425e+04
+iteration: 254 func_evaluations: 40640 best: 6.659395e+04
+iteration: 256 func_evaluations: 40960 best: 6.659395e+04
+iteration: 258 func_evaluations: 41280 best: 6.659395e+04
+iteration: 260 func_evaluations: 41600 best: 6.659395e+04
+iteration: 262 func_evaluations: 41920 best: 6.659395e+04
+iteration: 264 func_evaluations: 42240 best: 6.659395e+04
+iteration: 266 func_evaluations: 42560 best: 6.659395e+04
+iteration: 268 func_evaluations: 42880 best: 6.659395e+04
+iteration: 270 func_evaluations: 43200 best: 6.659395e+04
+iteration: 272 func_evaluations: 43520 best: 6.659395e+04
+iteration: 274 func_evaluations: 43840 best: 6.659395e+04
+iteration: 276 func_evaluations: 44160 best: 6.659395e+04
+iteration: 278 func_evaluations: 44480 best: 6.659395e+04
+iteration: 280 func_evaluations: 44800 best: 6.659395e+04
+iteration: 282 func_evaluations: 45120 best: 6.649029e+04
+iteration: 284 func_evaluations: 45440 best: 6.649029e+04
+iteration: 286 func_evaluations: 45760 best: 6.649029e+04
+iteration: 288 func_evaluations: 46080 best: 6.649029e+04
+iteration: 290 func_evaluations: 46400 best: 6.649029e+04
+iteration: 292 func_evaluations: 46720 best: 6.649029e+04
+iteration: 294 func_evaluations: 47040 best: 6.642112e+04
+iteration: 296 func_evaluations: 47360 best: 6.633850e+04
+iteration: 298 func_evaluations: 47680 best: 6.633346e+04
+iteration: 300 func_evaluations: 48000 best: 6.624487e+04
+iteration: 302 func_evaluations: 48320 best: 6.618446e+04
+iteration: 304 func_evaluations: 48640 best: 6.610824e+04
+iteration: 306 func_evaluations: 48960 best: 6.602050e+04
+iteration: 308 func_evaluations: 49280 best: 6.601952e+04
+iteration: 310 func_evaluations: 49600 best: 6.581873e+04
+iteration: 312 func_evaluations: 49920 best: 6.577721e+04
+iteration: 314 func_evaluations: 50240 best: 6.556882e+04
+iteration: 316 func_evaluations: 50560 best: 6.547203e+04
+iteration: 318 func_evaluations: 50880 best: 6.547203e+04
+iteration: 320 func_evaluations: 51200 best: 6.536342e+04
+iteration: 322 func_evaluations: 51520 best: 6.525665e+04
+iteration: 324 func_evaluations: 51840 best: 6.524530e+04
+iteration: 326 func_evaluations: 52160 best: 6.507726e+04
+iteration: 328 func_evaluations: 52480 best: 6.507726e+04
+iteration: 330 func_evaluations: 52800 best: 6.502815e+04
+iteration: 332 func_evaluations: 53120 best: 6.500427e+04
+iteration: 334 func_evaluations: 53440 best: 6.488603e+04
+iteration: 336 func_evaluations: 53760 best: 6.465599e+04
+iteration: 338 func_evaluations: 54080 best: 6.461655e+04
+iteration: 340 func_evaluations: 54400 best: 6.459363e+04
+iteration: 342 func_evaluations: 54720 best: 6.459363e+04
+iteration: 344 func_evaluations: 55040 best: 6.459363e+04
+iteration: 346 func_evaluations: 55360 best: 6.448687e+04
+iteration: 348 func_evaluations: 55680 best: 6.428830e+04
+iteration: 350 func_evaluations: 56000 best: 6.425536e+04
+iteration: 352 func_evaluations: 56320 best: 6.425536e+04
+iteration: 354 func_evaluations: 56640 best: 6.425536e+04
+iteration: 356 func_evaluations: 56960 best: 6.425536e+04
+iteration: 358 func_evaluations: 57280 best: 6.425536e+04
+iteration: 360 func_evaluations: 57600 best: 6.416763e+04
+iteration: 362 func_evaluations: 57920 best: 6.414577e+04
+iteration: 364 func_evaluations: 58240 best: 6.405901e+04
+iteration: 366 func_evaluations: 58560 best: 6.386043e+04
+iteration: 368 func_evaluations: 58880 best: 6.365881e+04
+iteration: 370 func_evaluations: 59200 best: 6.359441e+04
+iteration: 372 func_evaluations: 59520 best: 6.354292e+04
+iteration: 374 func_evaluations: 59840 best: 6.350202e+04
+iteration: 376 func_evaluations: 60160 best: 6.334717e+04
+iteration: 378 func_evaluations: 60480 best: 6.309711e+04
+iteration: 380 func_evaluations: 60800 best: 6.309711e+04
+iteration: 382 func_evaluations: 61120 best: 6.309711e+04
+iteration: 384 func_evaluations: 61440 best: 6.309711e+04
+iteration: 386 func_evaluations: 61760 best: 6.302236e+04
+iteration: 388 func_evaluations: 62080 best: 6.297792e+04
+iteration: 390 func_evaluations: 62400 best: 6.282578e+04
+iteration: 392 func_evaluations: 62720 best: 6.280828e+04
+iteration: 394 func_evaluations: 63040 best: 6.275845e+04
+iteration: 396 func_evaluations: 63360 best: 6.261765e+04
+iteration: 398 func_evaluations: 63680 best: 6.261765e+04
+iteration: 400 func_evaluations: 64000 best: 6.260301e+04
+iteration: 402 func_evaluations: 64320 best: 6.254065e+04
+iteration: 404 func_evaluations: 64640 best: 6.237018e+04
+iteration: 406 func_evaluations: 64960 best: 6.233632e+04
+iteration: 408 func_evaluations: 65280 best: 6.231403e+04
+iteration: 410 func_evaluations: 65600 best: 6.224475e+04
+iteration: 412 func_evaluations: 65920 best: 6.224053e+04
+iteration: 414 func_evaluations: 66240 best: 6.206445e+04
+iteration: 416 func_evaluations: 66560 best: 6.206445e+04
+iteration: 418 func_evaluations: 66880 best: 6.195443e+04
+iteration: 420 func_evaluations: 67200 best: 6.193873e+04
+iteration: 422 func_evaluations: 67520 best: 6.193873e+04
+iteration: 424 func_evaluations: 67840 best: 6.188562e+04
+iteration: 426 func_evaluations: 68160 best: 6.167178e+04
+iteration: 428 func_evaluations: 68480 best: 6.159541e+04
+iteration: 430 func_evaluations: 68800 best: 6.130377e+04
+iteration: 432 func_evaluations: 69120 best: 6.130377e+04
+iteration: 434 func_evaluations: 69440 best: 6.130377e+04
+iteration: 436 func_evaluations: 69760 best: 6.130377e+04
+iteration: 438 func_evaluations: 70080 best: 6.130377e+04
+iteration: 440 func_evaluations: 70400 best: 6.121895e+04
+iteration: 442 func_evaluations: 70720 best: 6.118727e+04
+iteration: 444 func_evaluations: 71040 best: 6.118727e+04
+iteration: 446 func_evaluations: 71360 best: 6.102580e+04
+iteration: 448 func_evaluations: 71680 best: 6.102580e+04
+iteration: 450 func_evaluations: 72000 best: 6.093619e+04
+iteration: 452 func_evaluations: 72320 best: 6.088921e+04
+iteration: 454 func_evaluations: 72640 best: 6.084283e+04
+iteration: 456 func_evaluations: 72960 best: 6.063494e+04
+iteration: 458 func_evaluations: 73280 best: 6.063494e+04
+iteration: 460 func_evaluations: 73600 best: 6.054353e+04
+iteration: 462 func_evaluations: 73920 best: 6.049022e+04
+iteration: 464 func_evaluations: 74240 best: 6.031330e+04
+iteration: 466 func_evaluations: 74560 best: 6.029954e+04
+iteration: 468 func_evaluations: 74880 best: 6.028156e+04
+iteration: 470 func_evaluations: 75200 best: 6.011200e+04
+iteration: 472 func_evaluations: 75520 best: 6.009554e+04
+iteration: 474 func_evaluations: 75840 best: 6.005635e+04
+iteration: 476 func_evaluations: 76160 best: 5.983756e+04
+iteration: 478 func_evaluations: 76480 best: 5.983756e+04
+iteration: 480 func_evaluations: 76800 best: 5.983756e+04
+iteration: 482 func_evaluations: 77120 best: 5.983756e+04
+iteration: 484 func_evaluations: 77440 best: 5.970037e+04
+iteration: 486 func_evaluations: 77760 best: 5.969303e+04
+iteration: 488 func_evaluations: 78080 best: 5.966674e+04
+iteration: 490 func_evaluations: 78400 best: 5.956472e+04
+iteration: 492 func_evaluations: 78720 best: 5.953001e+04
+iteration: 494 func_evaluations: 79040 best: 5.953001e+04
+iteration: 496 func_evaluations: 79360 best: 5.943844e+04
+iteration: 498 func_evaluations: 79680 best: 5.933672e+04
+iteration: 500 func_evaluations: 80000 best: 5.931355e+04
+iteration: 502 func_evaluations: 80320 best: 5.925656e+04
+iteration: 504 func_evaluations: 80640 best: 5.910709e+04
+iteration: 506 func_evaluations: 80960 best: 5.900981e+04
+iteration: 508 func_evaluations: 81280 best: 5.897028e+04
+iteration: 510 func_evaluations: 81600 best: 5.884289e+04
+iteration: 512 func_evaluations: 81920 best: 5.884289e+04
+iteration: 514 func_evaluations: 82240 best: 5.878717e+04
+iteration: 516 func_evaluations: 82560 best: 5.870700e+04
+iteration: 518 func_evaluations: 82880 best: 5.847567e+04
+iteration: 520 func_evaluations: 83200 best: 5.843508e+04
+iteration: 522 func_evaluations: 83520 best: 5.834303e+04
+iteration: 524 func_evaluations: 83840 best: 5.834303e+04
+iteration: 526 func_evaluations: 84160 best: 5.825686e+04
+iteration: 528 func_evaluations: 84480 best: 5.818875e+04
+iteration: 530 func_evaluations: 84800 best: 5.808304e+04
+iteration: 532 func_evaluations: 85120 best: 5.800777e+04
+iteration: 534 func_evaluations: 85440 best: 5.800777e+04
+iteration: 536 func_evaluations: 85760 best: 5.800777e+04
+iteration: 538 func_evaluations: 86080 best: 5.790659e+04
+iteration: 540 func_evaluations: 86400 best: 5.775858e+04
+iteration: 542 func_evaluations: 86720 best: 5.775858e+04
+iteration: 544 func_evaluations: 87040 best: 5.775858e+04
+iteration: 546 func_evaluations: 87360 best: 5.767269e+04
+iteration: 548 func_evaluations: 87680 best: 5.760588e+04
+iteration: 550 func_evaluations: 88000 best: 5.745050e+04
+iteration: 552 func_evaluations: 88320 best: 5.735291e+04
+iteration: 554 func_evaluations: 88640 best: 5.724436e+04
+iteration: 556 func_evaluations: 88960 best: 5.724436e+04
+iteration: 558 func_evaluations: 89280 best: 5.724436e+04
+iteration: 560 func_evaluations: 89600 best: 5.723448e+04
+iteration: 562 func_evaluations: 89920 best: 5.715318e+04
+iteration: 564 func_evaluations: 90240 best: 5.712219e+04
+iteration: 566 func_evaluations: 90560 best: 5.711069e+04
+iteration: 568 func_evaluations: 90880 best: 5.707238e+04
+iteration: 570 func_evaluations: 91200 best: 5.692770e+04
+iteration: 572 func_evaluations: 91520 best: 5.692770e+04
+iteration: 574 func_evaluations: 91840 best: 5.680035e+04
+iteration: 576 func_evaluations: 92160 best: 5.672880e+04
+iteration: 578 func_evaluations: 92480 best: 5.672880e+04
+iteration: 580 func_evaluations: 92800 best: 5.668089e+04
+iteration: 582 func_evaluations: 93120 best: 5.657542e+04
+iteration: 584 func_evaluations: 93440 best: 5.645737e+04
+iteration: 586 func_evaluations: 93760 best: 5.644833e+04
+iteration: 588 func_evaluations: 94080 best: 5.628229e+04
+iteration: 590 func_evaluations: 94400 best: 5.622748e+04
+iteration: 592 func_evaluations: 94720 best: 5.613167e+04
+iteration: 594 func_evaluations: 95040 best: 5.605407e+04
+iteration: 596 func_evaluations: 95360 best: 5.605407e+04
+iteration: 598 func_evaluations: 95680 best: 5.605407e+04
+iteration: 600 func_evaluations: 96000 best: 5.602207e+04
+iteration: 602 func_evaluations: 96320 best: 5.583404e+04
+iteration: 604 func_evaluations: 96640 best: 5.575379e+04
+iteration: 606 func_evaluations: 96960 best: 5.575379e+04
+iteration: 608 func_evaluations: 97280 best: 5.575379e+04
+iteration: 610 func_evaluations: 97600 best: 5.567563e+04
+iteration: 612 func_evaluations: 97920 best: 5.563266e+04
+iteration: 614 func_evaluations: 98240 best: 5.551662e+04
+iteration: 616 func_evaluations: 98560 best: 5.541926e+04
+iteration: 618 func_evaluations: 98880 best: 5.536045e+04
+iteration: 620 func_evaluations: 99200 best: 5.532368e+04
+iteration: 622 func_evaluations: 99520 best: 5.510932e+04
+iteration: 624 func_evaluations: 99840 best: 5.506972e+04
+iteration: 626 func_evaluations: 100160 best: 5.493160e+04
+iteration: 628 func_evaluations: 100480 best: 5.493160e+04
+iteration: 630 func_evaluations: 100800 best: 5.493160e+04
+iteration: 632 func_evaluations: 101120 best: 5.482858e+04
+iteration: 634 func_evaluations: 101440 best: 5.482858e+04
+iteration: 636 func_evaluations: 101760 best: 5.482858e+04
+iteration: 638 func_evaluations: 102080 best: 5.470214e+04
+iteration: 640 func_evaluations: 102400 best: 5.470214e+04
+iteration: 642 func_evaluations: 102720 best: 5.470214e+04
+iteration: 644 func_evaluations: 103040 best: 5.465626e+04
+iteration: 646 func_evaluations: 103360 best: 5.449779e+04
+iteration: 648 func_evaluations: 103680 best: 5.449779e+04
+iteration: 650 func_evaluations: 104000 best: 5.449223e+04
+iteration: 652 func_evaluations: 104320 best: 5.449175e+04
+iteration: 654 func_evaluations: 104640 best: 5.437381e+04
+iteration: 656 func_evaluations: 104960 best: 5.425742e+04
+iteration: 658 func_evaluations: 105280 best: 5.410063e+04
+iteration: 660 func_evaluations: 105600 best: 5.395949e+04
+iteration: 662 func_evaluations: 105920 best: 5.395642e+04
+iteration: 664 func_evaluations: 106240 best: 5.387025e+04
+iteration: 666 func_evaluations: 106560 best: 5.386878e+04
+iteration: 668 func_evaluations: 106880 best: 5.365802e+04
+iteration: 670 func_evaluations: 107200 best: 5.365802e+04
+iteration: 672 func_evaluations: 107520 best: 5.356016e+04
+iteration: 674 func_evaluations: 107840 best: 5.348005e+04
+iteration: 676 func_evaluations: 108160 best: 5.348005e+04
+iteration: 678 func_evaluations: 108480 best: 5.348005e+04
+iteration: 680 func_evaluations: 108800 best: 5.328766e+04
+iteration: 682 func_evaluations: 109120 best: 5.327660e+04
+iteration: 684 func_evaluations: 109440 best: 5.327639e+04
+iteration: 686 func_evaluations: 109760 best: 5.314820e+04
+iteration: 688 func_evaluations: 110080 best: 5.313449e+04
+iteration: 690 func_evaluations: 110400 best: 5.313449e+04
+iteration: 692 func_evaluations: 110720 best: 5.313449e+04
+iteration: 694 func_evaluations: 111040 best: 5.292558e+04
+iteration: 696 func_evaluations: 111360 best: 5.289506e+04
+iteration: 698 func_evaluations: 111680 best: 5.287619e+04
+iteration: 700 func_evaluations: 112000 best: 5.276464e+04
+iteration: 702 func_evaluations: 112320 best: 5.276464e+04
+iteration: 704 func_evaluations: 112640 best: 5.276464e+04
+iteration: 706 func_evaluations: 112960 best: 5.271159e+04
+iteration: 708 func_evaluations: 113280 best: 5.264070e+04
+iteration: 710 func_evaluations: 113600 best: 5.264070e+04
+iteration: 712 func_evaluations: 113920 best: 5.256896e+04
+iteration: 714 func_evaluations: 114240 best: 5.246373e+04
+iteration: 716 func_evaluations: 114560 best: 5.240637e+04
+iteration: 718 func_evaluations: 114880 best: 5.236002e+04
+iteration: 720 func_evaluations: 115200 best: 5.235105e+04
+iteration: 722 func_evaluations: 115520 best: 5.232548e+04
+iteration: 724 func_evaluations: 115840 best: 5.229543e+04
+iteration: 726 func_evaluations: 116160 best: 5.219095e+04
+iteration: 728 func_evaluations: 116480 best: 5.216813e+04
+iteration: 730 func_evaluations: 116800 best: 5.210637e+04
+iteration: 732 func_evaluations: 117120 best: 5.210637e+04
+iteration: 734 func_evaluations: 117440 best: 5.195837e+04
+iteration: 736 func_evaluations: 117760 best: 5.193624e+04
+iteration: 738 func_evaluations: 118080 best: 5.191144e+04
+iteration: 740 func_evaluations: 118400 best: 5.169572e+04
+iteration: 742 func_evaluations: 118720 best: 5.158338e+04
+iteration: 744 func_evaluations: 119040 best: 5.153417e+04
+iteration: 746 func_evaluations: 119360 best: 5.147171e+04
+iteration: 748 func_evaluations: 119680 best: 5.147171e+04
+iteration: 750 func_evaluations: 120000 best: 5.137406e+04
+iteration: 752 func_evaluations: 120320 best: 5.137406e+04
+iteration: 754 func_evaluations: 120640 best: 5.135329e+04
+iteration: 756 func_evaluations: 120960 best: 5.124984e+04
+iteration: 758 func_evaluations: 121280 best: 5.119515e+04
+iteration: 760 func_evaluations: 121600 best: 5.111286e+04
+iteration: 762 func_evaluations: 121920 best: 5.108185e+04
+iteration: 764 func_evaluations: 122240 best: 5.098383e+04
+iteration: 766 func_evaluations: 122560 best: 5.095174e+04
+iteration: 768 func_evaluations: 122880 best: 5.093034e+04
+iteration: 770 func_evaluations: 123200 best: 5.085538e+04
+iteration: 772 func_evaluations: 123520 best: 5.063405e+04
+iteration: 774 func_evaluations: 123840 best: 5.063405e+04
+iteration: 776 func_evaluations: 124160 best: 5.059932e+04
+iteration: 778 func_evaluations: 124480 best: 5.047913e+04
+iteration: 780 func_evaluations: 124800 best: 5.028055e+04
+iteration: 782 func_evaluations: 125120 best: 5.025872e+04
+iteration: 784 func_evaluations: 125440 best: 5.021683e+04
+iteration: 786 func_evaluations: 125760 best: 5.020009e+04
+iteration: 788 func_evaluations: 126080 best: 5.012625e+04
+iteration: 790 func_evaluations: 126400 best: 5.002176e+04
+iteration: 792 func_evaluations: 126720 best: 5.002176e+04
+iteration: 794 func_evaluations: 127040 best: 5.002176e+04
+iteration: 796 func_evaluations: 127360 best: 4.987085e+04
+iteration: 798 func_evaluations: 127680 best: 4.986945e+04
+iteration: 800 func_evaluations: 128000 best: 4.986945e+04
+iteration: 802 func_evaluations: 128320 best: 4.980671e+04
+iteration: 804 func_evaluations: 128640 best: 4.980443e+04
+iteration: 806 func_evaluations: 128960 best: 4.980443e+04
+iteration: 808 func_evaluations: 129280 best: 4.977511e+04
+iteration: 810 func_evaluations: 129600 best: 4.968148e+04
+iteration: 812 func_evaluations: 129920 best: 4.965582e+04
+iteration: 814 func_evaluations: 130240 best: 4.956935e+04
+iteration: 816 func_evaluations: 130560 best: 4.950505e+04
+iteration: 818 func_evaluations: 130880 best: 4.937313e+04
+iteration: 820 func_evaluations: 131200 best: 4.933604e+04
+iteration: 822 func_evaluations: 131520 best: 4.932340e+04
+iteration: 824 func_evaluations: 131840 best: 4.924965e+04
+iteration: 826 func_evaluations: 132160 best: 4.924511e+04
+iteration: 828 func_evaluations: 132480 best: 4.915798e+04
+iteration: 830 func_evaluations: 132800 best: 4.906523e+04
+iteration: 832 func_evaluations: 133120 best: 4.899053e+04
+iteration: 834 func_evaluations: 133440 best: 4.896872e+04
+iteration: 836 func_evaluations: 133760 best: 4.895640e+04
+iteration: 838 func_evaluations: 134080 best: 4.890783e+04
+iteration: 840 func_evaluations: 134400 best: 4.859994e+04
+iteration: 842 func_evaluations: 134720 best: 4.851717e+04
+iteration: 844 func_evaluations: 135040 best: 4.848218e+04
+iteration: 848 func_evaluations: 135680 best: 4.839554e+04
+iteration: 852 func_evaluations: 136320 best: 4.826349e+04
+iteration: 856 func_evaluations: 136960 best: 4.820909e+04
+iteration: 860 func_evaluations: 137600 best: 4.810014e+04
+iteration: 864 func_evaluations: 138240 best: 4.800951e+04
+iteration: 868 func_evaluations: 138880 best: 4.784031e+04
+iteration: 872 func_evaluations: 139520 best: 4.769704e+04
+iteration: 876 func_evaluations: 140160 best: 4.765242e+04
+iteration: 880 func_evaluations: 140800 best: 4.757951e+04
+iteration: 884 func_evaluations: 141440 best: 4.736146e+04
+iteration: 888 func_evaluations: 142080 best: 4.729752e+04
+iteration: 892 func_evaluations: 142720 best: 4.711239e+04
+iteration: 896 func_evaluations: 143360 best: 4.702643e+04
+iteration: 900 func_evaluations: 144000 best: 4.694832e+04
+iteration: 904 func_evaluations: 144640 best: 4.680131e+04
+iteration: 908 func_evaluations: 145280 best: 4.668230e+04
+iteration: 912 func_evaluations: 145920 best: 4.665057e+04
+iteration: 916 func_evaluations: 146560 best: 4.644485e+04
+iteration: 920 func_evaluations: 147200 best: 4.644485e+04
+iteration: 924 func_evaluations: 147840 best: 4.635775e+04
+iteration: 928 func_evaluations: 148480 best: 4.612765e+04
+iteration: 932 func_evaluations: 149120 best: 4.607286e+04
+iteration: 936 func_evaluations: 149760 best: 4.599827e+04
+Total time: 1.105285 sec
+Best 4.598568e+04

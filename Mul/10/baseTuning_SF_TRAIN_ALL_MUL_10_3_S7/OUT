@@ -1,0 +1,8 @@
+entre
+train_ALL_mul.inst
+Scenario1
+outputTuner=EVOCA_SPSO11_Scenario1_S7.out
+time ./EVOCA PSO.sh conf-PSO.config Scenario1 7 5 10 5000 0 1 candidatas.config> EVOCA_SPSO11_train_ALL_mul.inst_S7.out
+mv EVOCA.log respaldosSPSO11/EVOCA.log_SPSO11_Scenario1_S7
+mv EVOCA.params respaldosSPSO11/EVOCA.params_SPSO11_Scenario1_S7
+EVOCA_SPSO11_train_ALL_mul.inst_S7.out
