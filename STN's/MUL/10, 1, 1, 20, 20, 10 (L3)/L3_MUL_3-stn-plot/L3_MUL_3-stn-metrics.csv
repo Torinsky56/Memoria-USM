@@ -1,0 +1,4 @@
+"","instance","nodes","edges","nbest","nend","components","strength","plength","npaths"
+"1","10_stn",2854,5725,0,1,1,NA,NA,0
+"2","20_stn",3449,5819,0,1,1,NA,NA,0
+"3","50_stn",3552,5577,1,1,1,16.6,11.6667,9
